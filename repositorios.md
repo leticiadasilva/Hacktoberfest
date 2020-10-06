@@ -76,7 +76,7 @@ Pra quem quer entender como começar a contribuir com software livre :smiley:
 - [Strafe API](https://github.com/WLSF/strafe)  
 - [ScanAPI](https://github.com/scanapi/website)  
 - [Acompanha Legis](https://github.com/AcompanhaLegis/acompanha-legis-api)  
-- [Diário Oficial](https://github.com/okfn-brasil/querido-diario)  
+- [Querido Diário](https://github.com/okfn-brasil/querido-diario)  
 - [Operação Serenata de Amor](https://github.com/okfn-brasil/serenata-de-amor)  
 - [Perfil Político](https://github.com/okfn-brasil/perfil-politico)  
 - [TERMINEDIA](https://github.com/jsbueno/terminedia)  
