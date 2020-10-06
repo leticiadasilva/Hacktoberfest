@@ -8,7 +8,7 @@ Olar :) Você encontrará conteúdo, informações, materiais de estudo e reposi
 
 ## Sumário  
 
-- [Home](https://github.com/leticiadasilva/Hacktoberfest/wiki)
+[Home](https://github.com/leticiadasilva/Hacktoberfest/wiki)
 
 1. [Hacktoberfest: a festa do código aberto](https://github.com/leticiadasilva/Hacktoberfest/wiki/1.-Hacktoberfest:-a-festa-do-c%C3%B3digo-aberto)  
 
