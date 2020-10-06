@@ -1,12 +1,14 @@
 # Hacktoberfest - a festa do código aberto :tada:
 
-Olar :) ideia aqui é reunir repositórios de código aberto para receberem contribuições na [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/), iniciativa que rola em outubro há seis anos!  
+Olar :) Você encontrará conteúdo, informações, materiais de estudo e repositórios sobre o #hacktoberfest :fireworks:  
 
-Você encontrará conteúdo, informações, materiais de estudo e repositórios sobre o #hacktoberfest :fireworks: 
+<p align="center">
+<img src="https://media.giphy.com/media/3EfgWHj0YIDrW/giphy.gif">
+</p>  
 
 ## Sumário  
 
-[Home](https://github.com/leticiadasilva/Hacktoberfest/wiki)
+- [Home](https://github.com/leticiadasilva/Hacktoberfest/wiki)
 
 1. [Hacktoberfest: a festa do código aberto](https://github.com/leticiadasilva/Hacktoberfest/wiki/1.-Hacktoberfest:-a-festa-do-c%C3%B3digo-aberto)  
 
