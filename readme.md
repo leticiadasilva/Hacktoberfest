@@ -4,7 +4,9 @@ Olar :) ideia aqui é reunir repositórios de código aberto para receberem cont
 
 Você encontrará conteúdo, informações, materiais de estudo e repositórios sobre o #hacktoberfest :fireworks: 
 
-## Sumário
+## Sumário  
+
+[Home](https://github.com/leticiadasilva/Hacktoberfest/wiki)
 
 1. [Hacktoberfest: a festa do código aberto](https://github.com/leticiadasilva/Hacktoberfest/wiki/1.-Hacktoberfest:-a-festa-do-c%C3%B3digo-aberto)  
 
