@@ -81,6 +81,8 @@ Pra quem quer entender como começar a contribuir com software livre :smiley:
 - [Perfil Político](https://github.com/okfn-brasil/perfil-politico)  
 - [TERMINEDIA](https://github.com/jsbueno/terminedia)  
 - [Extra Dictionary classes and utilities for Python](https://github.com/jsbueno/extradict)  
+- [Calculadora-TK](https://github.com/matheusfelipeog/calculadora-tk)
+- [Fordev](https://github.com/matheusfelipeog/fordev)
 
 ## PHP  
 
