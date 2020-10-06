@@ -89,4 +89,14 @@ Pra quem quer entender como começar a contribuir com software livre :smiley:
 ## Ruby  
 - [Hcl::Checker](https://github.com/mfcastellani/hcl-checker)
 
+## Swift
+- https://github.com/ViniciusDeep/Revill
+- https://github.com/ViniciusDeep/CBuilder
+- https://github.com/ViniciusDeep/Dework
+- https://github.com/AcademyIFCE/Swift-Book
+- https://github.com/incubateind/Hacktoberfest
+- https://github.com/mattermost/mattermost-ios-classic
+- https://github.com/cardoso/ReduxMovieDB
+- https://github.com/ther0n/UnnaturalScrollWheels
+- https://github.com/MessageKit/MessageKit
 
