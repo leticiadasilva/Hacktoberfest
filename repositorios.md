@@ -90,13 +90,13 @@ Pra quem quer entender como começar a contribuir com software livre :smiley:
 - [Hcl::Checker](https://github.com/mfcastellani/hcl-checker)
 
 ## Swift
-- https://github.com/ViniciusDeep/Revill
-- https://github.com/ViniciusDeep/CBuilder
-- https://github.com/ViniciusDeep/Dework
-- https://github.com/AcademyIFCE/Swift-Book
-- https://github.com/incubateind/Hacktoberfest
-- https://github.com/mattermost/mattermost-ios-classic
-- https://github.com/cardoso/ReduxMovieDB
-- https://github.com/ther0n/UnnaturalScrollWheels
-- https://github.com/MessageKit/MessageKit
+- [Revill](https://github.com/ViniciusDeep/Revill)
+- [CBuilder](https://github.com/ViniciusDeep/CBuilder)
+- [Dework](https://github.com/ViniciusDeep/Dework)
+- [Swift-Book](https://github.com/AcademyIFCE/Swift-Book)
+- [Hacktoberfest](https://github.com/incubateind/Hacktoberfest)
+- [mattermost-ios-classic](https://github.com/mattermost/mattermost-ios-classic)
+- [ReduxMovieDB](https://github.com/cardoso/ReduxMovieDB)
+- [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels)
+- [MessageKit](https://github.com/MessageKit/MessageKit)
 
