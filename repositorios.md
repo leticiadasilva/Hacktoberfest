@@ -6,7 +6,8 @@ Um repositório **CHEINHO** de eventos pra você mandar palestrinhas! :sunglasse
 ## Desafios  
 Quer treinar seus códigos? :computer: Vem cá:   
 - [Dev Practice](https://github.com/alinebastos/dev-practice)  
-- [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges)
+- [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges)  
+- [He4rtlabs](https://github.com/he4rtlabs/he4rtoberfest-2020)  
 
 ## Cursos  
 :pushpin: Tá procurando cursos gratuitos? Então toma, anjo!  
