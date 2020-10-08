@@ -20,6 +20,7 @@ Procurando material pra estudar? Saca só esses repositórios: :books:
 - [Studynotes](https://github.com/bellesamways/studynotes)  
 - [Notas de aula](https://github.com/leticiadasilva/notas-de-aula)   
 - [Perifacode - Conteúdo gratuito](https://github.com/perifacode/conteudo-gratuito)  
+- [Guia do Cientista de Dados das Galáxias](https://github.com/PizzaDeDados/datascience-pizza)
 
 ## Buzzfeed
 
@@ -36,6 +37,8 @@ Se você quer trabalho remoto, cola aqui: :boom:
 :pencil: Se você manja ou quer treinar o inglês, se liga nisso!
 - [Elixir School](https://github.com/elixirschool/elixirschool/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)  
 - [Learn Go with tests](https://github.com/larien/learn-go-with-tests)  
+- [Documentação do Gatsby.js](https://github.com/gatsbyjs/gatsby-pt-BR/issues)
+- [Devtranslate](https://github.com/devtranslate)
 
 ## Poesia :art:  
 
