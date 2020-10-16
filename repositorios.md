@@ -63,6 +63,10 @@ Pra quem quer entender como começar a contribuir com software livre :smiley:
 
 # Repositórios de projetos separados por linguagens de programação  
 
+## Elixir
+
+- [live_view_chat](https://github.com/WLSF/live_view_chat)  
+
 ## JavaScript
 
 - [Cadastro now](https://github.com/jhonatasmatos/cadastro-now)  
@@ -73,6 +77,7 @@ Pra quem quer entender como começar a contribuir com software livre :smiley:
 - [Time to Leave](https://github.com/thamara/time-to-leave)  
 
 ## Objective-C  
+
 - [NewSchool-frontend](https://github.com/NewSchoolApp/newschool-frontend)  
 
 ## Python  
@@ -93,9 +98,11 @@ Pra quem quer entender como começar a contribuir com software livre :smiley:
 - [Multiple Domain](https://github.com/straube/multiple-domain)  
 
 ## Ruby  
+
 - [Hcl::Checker](https://github.com/mfcastellani/hcl-checker)
 
 ## Swift
+
 - [Revill](https://github.com/ViniciusDeep/Revill)
 - [CBuilder](https://github.com/ViniciusDeep/CBuilder)
 - [Dework](https://github.com/ViniciusDeep/Dework)
