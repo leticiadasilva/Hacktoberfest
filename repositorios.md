@@ -21,6 +21,8 @@ Procurando material pra estudar? Saca só esses repositórios: :books:
 - [Notas de aula](https://github.com/leticiadasilva/notas-de-aula)   
 - [Perifacode - Conteúdo gratuito](https://github.com/perifacode/conteudo-gratuito)  
 - [Guia do Cientista de Dados das Galáxias](https://github.com/PizzaDeDados/datascience-pizza)
+- [Ciência de dados e linguagem R](https://github.com/hadley)
+- [Data Science e Machine Learning](https://github.com/hmason)
 
 ## Buzzfeed
 
