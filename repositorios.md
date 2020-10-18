@@ -8,6 +8,7 @@ Quer treinar seus códigos? :computer: Vem cá:
 - [Dev Practice](https://github.com/alinebastos/dev-practice)  
 - [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges)  
 - [He4rtlabs](https://github.com/he4rtlabs/he4rtoberfest-2020)  
+- [Velas de Aniversário](https://github.com/WoMakersCode/challenges-algorithms/tree/master/tutorial-challenge-birthday-candles-cake)
 
 ## Cursos  
 :pushpin: Tá procurando cursos gratuitos? Então toma, anjo!  
@@ -37,7 +38,7 @@ Se você quer trabalho remoto, cola aqui: :boom:
 ## Traduções
 
 :pencil: Se você manja ou quer treinar o inglês, se liga nisso!
-- [Elixir School](https://github.com/elixirschool/elixirschool/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)  
+
 - [Learn Go with tests](https://github.com/larien/learn-go-with-tests)  
 - [Documentação do Gatsby.js](https://github.com/gatsbyjs/gatsby-pt-BR/issues)
 - [Devtranslate](https://github.com/devtranslate)
@@ -119,4 +120,12 @@ Uma listona de mulheres que ensinam tecnologia para contribuir e compartilhar.
 - [ReduxMovieDB](https://github.com/cardoso/ReduxMovieDB)
 - [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels)
 - [MessageKit](https://github.com/MessageKit/MessageKit)
+
+## Hacktoberfest
+
+Repositórios para contribuir e se divertir neste Hacktober!
+
+- [Compiladoras de Cafeína](https://github.com/compiladoras/women-teaching-tech)
+- [WoMakers](https://github.com/WoMakersCode/challenges-algorithms)
+
 
