@@ -83,6 +83,7 @@ Uma listona de mulheres que ensinam tecnologia para contribuir e compartilhar.
 - [SDK for Dados Abertos da Camara](https://github.com/AcompanhaLegis/sdk-dados-abertos-camara-js)  
 - [@NewSchool/back](https://github.com/NewSchoolApp/newschool-backend)  
 - [Time to Leave](https://github.com/thamara/time-to-leave)  
+https://github.com/Rocketseat/awesome
 
 ## Objective-C  
 
@@ -127,5 +128,5 @@ Repositórios para contribuir e se divertir neste Hacktober!
 
 - [Compiladoras de Cafeína](https://github.com/compiladoras/women-teaching-tech)
 - [WoMakers](https://github.com/WoMakersCode/challenges-algorithms)
-
+- [Conteudo Gratuito](https://github.com/perifacode/conteudo-gratuito)
 
