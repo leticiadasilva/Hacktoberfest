@@ -68,6 +68,10 @@ Pra quem quer entender como começar a contribuir com software livre :smiley:
 Uma listona de mulheres que ensinam tecnologia para contribuir e compartilhar.
 - [Mulheres que ensinam tecnologia](https://github.com/compiladoras/women-teaching-tech)  
 
+## Editores Online para praticar
+- [React](https://codesandbox.io/dashboard/home?workspace=47c646b4-8275-43d6-b090-757b9d88d80d)
+- [Python, Java, C, C++, JavaScript, e Ruby](http://www.pythontutor.com/)
+
 ## Hacktoberfest
 
 Repositórios para contribuir e se divertir neste Hacktober!
