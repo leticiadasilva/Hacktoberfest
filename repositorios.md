@@ -92,7 +92,7 @@ Repositórios para contribuir e se divertir neste Hacktober!
 - [SDK for Dados Abertos da Camara](https://github.com/AcompanhaLegis/sdk-dados-abertos-camara-js)  
 - [@NewSchool/back](https://github.com/NewSchoolApp/newschool-backend)  
 - [Time to Leave](https://github.com/thamara/time-to-leave)  
-https://github.com/Rocketseat/awesome
+https://github.com/Rocketseat/awesome)
 
 ## Objective-C  
 
