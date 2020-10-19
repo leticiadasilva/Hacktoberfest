@@ -12,7 +12,8 @@ Quer treinar seus códigos? :computer: Vem cá:
 
 ## Cursos  
 :pushpin: Tá procurando cursos gratuitos? Então toma, anjo!  
-- [Free Courses](https://github.com/alinebastos/free-courses)  
+- [Free Courses](https://github.com/alinebastos/free-courses) 
+- [Cursos PyLadies](https://github.com/PyLadiesSP/Cursos)
 
 ## Materiais de estudos
 Procurando material pra estudar? Saca só esses repositórios: :books:  
@@ -66,6 +67,14 @@ Pra quem quer entender como começar a contribuir com software livre :smiley:
 
 Uma listona de mulheres que ensinam tecnologia para contribuir e compartilhar.
 - [Mulheres que ensinam tecnologia](https://github.com/compiladoras/women-teaching-tech)  
+
+## Hacktoberfest
+
+Repositórios para contribuir e se divertir neste Hacktober!
+
+- [Compiladoras de Cafeína](https://github.com/compiladoras/women-teaching-tech)
+- [WoMakers](https://github.com/WoMakersCode/challenges-algorithms)
+- [Conteudo Gratuito](https://github.com/perifacode/conteudo-gratuito)
 
 ---
 
@@ -122,11 +131,5 @@ https://github.com/Rocketseat/awesome
 - [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels)
 - [MessageKit](https://github.com/MessageKit/MessageKit)
 
-## Hacktoberfest
 
-Repositórios para contribuir e se divertir neste Hacktober!
-
-- [Compiladoras de Cafeína](https://github.com/compiladoras/women-teaching-tech)
-- [WoMakers](https://github.com/WoMakersCode/challenges-algorithms)
-- [Conteudo Gratuito](https://github.com/perifacode/conteudo-gratuito)
 
