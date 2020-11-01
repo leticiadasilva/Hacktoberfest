@@ -8,7 +8,10 @@ Quer treinar seus códigos? :computer: Vem cá:
 - [Dev Practice](https://github.com/alinebastos/dev-practice)  
 - [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges)  
 - [He4rtlabs](https://github.com/he4rtlabs/he4rtoberfest-2020)  
-- [Velas de Aniversário](https://github.com/WoMakersCode/challenges-algorithms/tree/master/tutorial-challenge-birthday-candles-cake)
+- [Velas de Aniversário](https://github.com/WoMakersCode/challenges-algorithms/tree/master/tutorial-challenge-birthday-candles-cake) 
+- [Algorithm Challenges](https://github.com/WoMakersCode/challenges-algorithms) 
+- [Front-end Challenges](https://github.com/WoMakersCode/challenges-front-end)
+- [Back-end Challenges](https://github.com/WoMakersCode/challenges-back-end)
 
 ## Cursos  
 :pushpin: Tá procurando cursos gratuitos? Então toma, anjo!  
@@ -25,6 +28,9 @@ Procurando material pra estudar? Saca só esses repositórios: :books:
 - [Guia do Cientista de Dados das Galáxias](https://github.com/PizzaDeDados/datascience-pizza)
 - [Ciência de dados e linguagem R](https://github.com/hadley)
 - [Data Science e Machine Learning](https://github.com/hmason)
+- [Guia Banco de dados](https://github.com/WoMakersCode/banco-de-dados)
+- [Guia git e github](https://github.com/WoMakersCode/git-e-github)
+
 
 ## Buzzfeed
 
