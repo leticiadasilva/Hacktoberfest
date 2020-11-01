@@ -7,14 +7,16 @@ Um repositório **CHEINHO** de eventos pra você mandar palestrinhas! :sunglasse
 Quer treinar seus códigos? :computer: Vem cá:   
 - [Dev Practice](https://github.com/alinebastos/dev-practice)  
 - [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges)  
-- [He4rtlabs](https://github.com/he4rtlabs/he4rtoberfest-2020) 
+- [He4rtlabs](https://github.com/he4rtlabs/he4rtoberfest-2020)  
+- [Velas de Aniversário](https://github.com/WoMakersCode/challenges-algorithms/tree/master/tutorial-challenge-birthday-candles-cake) 
 - [Algorithm Challenges](https://github.com/WoMakersCode/challenges-algorithms) 
 - [Front-end Challenges](https://github.com/WoMakersCode/challenges-front-end)
 - [Back-end Challenges](https://github.com/WoMakersCode/challenges-back-end)
 
 ## Cursos  
 :pushpin: Tá procurando cursos gratuitos? Então toma, anjo!  
-- [Free Courses](https://github.com/alinebastos/free-courses)  
+- [Free Courses](https://github.com/alinebastos/free-courses) 
+- [Cursos PyLadies](https://github.com/PyLadiesSP/Cursos)
 
 ## Materiais de estudos
 Procurando material pra estudar? Saca só esses repositórios: :books:  
@@ -43,7 +45,7 @@ Se você quer trabalho remoto, cola aqui: :boom:
 ## Traduções
 
 :pencil: Se você manja ou quer treinar o inglês, se liga nisso!
-- [Elixir School](https://github.com/elixirschool/elixirschool/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)  
+
 - [Learn Go with tests](https://github.com/larien/learn-go-with-tests)  
 - [Documentação do Gatsby.js](https://github.com/gatsbyjs/gatsby-pt-BR/issues)
 - [Devtranslate](https://github.com/devtranslate)
@@ -72,6 +74,18 @@ Pra quem quer entender como começar a contribuir com software livre :smiley:
 Uma listona de mulheres que ensinam tecnologia para contribuir e compartilhar.
 - [Mulheres que ensinam tecnologia](https://github.com/compiladoras/women-teaching-tech)  
 
+## Editores Online para praticar
+- [React](https://codesandbox.io/dashboard/home?workspace=47c646b4-8275-43d6-b090-757b9d88d80d)
+- [Python, Java, C, C++, JavaScript, e Ruby](http://www.pythontutor.com/)
+
+## Hacktoberfest
+
+Repositórios para contribuir e se divertir neste Hacktober!
+
+- [Compiladoras de Cafeína](https://github.com/compiladoras/women-teaching-tech)
+- [WoMakers](https://github.com/WoMakersCode/challenges-algorithms)
+- [Conteudo Gratuito](https://github.com/perifacode/conteudo-gratuito)
+
 ---
 
 # Repositórios de projetos separados por linguagens de programação  
@@ -88,6 +102,7 @@ Uma listona de mulheres que ensinam tecnologia para contribuir e compartilhar.
 - [SDK for Dados Abertos da Camara](https://github.com/AcompanhaLegis/sdk-dados-abertos-camara-js)  
 - [@NewSchool/back](https://github.com/NewSchoolApp/newschool-backend)  
 - [Time to Leave](https://github.com/thamara/time-to-leave)  
+https://github.com/Rocketseat/awesome)
 
 ## Objective-C  
 
@@ -125,4 +140,6 @@ Uma listona de mulheres que ensinam tecnologia para contribuir e compartilhar.
 - [ReduxMovieDB](https://github.com/cardoso/ReduxMovieDB)
 - [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels)
 - [MessageKit](https://github.com/MessageKit/MessageKit)
+
+
 
