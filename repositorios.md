@@ -97,6 +97,7 @@ Repositórios para contribuir e se divertir neste Hacktober!
 ## JavaScript
 
 - [Cadastro now](https://github.com/jhonatasmatos/cadastro-now)  
+- [Curso Introdutório Trybe](https://go.betrybe.com/freecourse?utm_medium=referral&utm_source=feministech&utm_campaign=3-maratona-live-coder-girls)
 - [ServeRest](https://github.com/PauloGoncalvesBH/serverest)  
 - [camara-data-portal](https://github.com/AcompanhaLegis/camara-data-portal)  
 - [SDK for Dados Abertos da Camara](https://github.com/AcompanhaLegis/sdk-dados-abertos-camara-js)  
