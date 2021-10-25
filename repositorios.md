@@ -85,6 +85,7 @@ Repositórios para contribuir e se divertir neste Hacktober!
 - [Compiladoras de Cafeína](https://github.com/compiladoras/women-teaching-tech)
 - [WoMakers](https://github.com/WoMakersCode/challenges-algorithms)
 - [Conteudo Gratuito](https://github.com/perifacode/conteudo-gratuito)
+- [Conteúdos Tech Gratuitos - Leitora Incomum](https://github.com/leitoraincomum/conteudos-tech)
 
 ---
 
