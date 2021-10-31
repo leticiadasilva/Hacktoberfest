@@ -18,6 +18,8 @@ Olar :) Você encontrará conteúdo, informações, materiais de estudo e reposi
 
 4. [Projetos para contribuir: chegou a hora dos PR's!](https://github.com/leticiadasilva/Hacktoberfest/wiki/4.-Projetos-para-contribuir:-chegou-a-hora-dos-PR's!)
 
+5. [Contribuindo sem código]()
+
 
 Se você conhece algum repositório que esteja aceitando contribuições, pode inseri-lo [aqui](https://github.com/leticiadasilva/Hacktoberfest/blob/master/repositorios.md) :)  
 
