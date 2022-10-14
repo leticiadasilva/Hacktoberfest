@@ -18,7 +18,7 @@ Olá :) Aqui você encontrará informações, materiais de estudo e repositório
 
 4. [Projetos para contribuir: chegou a hora dos PR's!](https://github.com/leticiadasilva/Hacktoberfest/blob/master/Documenta%C3%A7%C3%A3o/projetos%20para%20colaborar.md)
 
-5. [Contribuindo sem código](https://github.com/leticiadasilva/Hacktoberfest/wiki/Contribuindo-sem-c%C3%B3digo)
+5. [Contribuindo sem código](https://github.com/leticiadasilva/Hacktoberfest/blob/master/Documenta%C3%A7%C3%A3o/contribuindo%20sem%20c%C3%B3digo.md)
 
 
 Se você conhece algum repositório que esteja aceitando contribuições, pode inseri-lo [aqui](https://github.com/leticiadasilva/Hacktoberfest/blob/master/repositorios.md) :smile:
