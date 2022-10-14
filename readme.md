@@ -1,9 +1,9 @@
 # Hacktoberfest - a festa do código aberto :tada:
 
-Olar :) Você encontrará conteúdo, informações, materiais de estudo e repositórios sobre o #hacktoberfest :fireworks:  
+Olá :) Aqui você encontrará informações, materiais de estudo e repositórios sobre o **Hacktoberfest** :fireworks:  
 
 <p align="center">
-<img src="https://media.giphy.com/media/3EfgWHj0YIDrW/giphy.gif">
+<img width="300px" align=center height="150px" src="https://media.giphy.com/media/3EfgWHj0YIDrW/giphy.gif">
 </p>  
 
 ## Sumário  
