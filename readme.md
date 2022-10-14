@@ -12,7 +12,7 @@ Olá :) Aqui você encontrará informações, materiais de estudo e repositório
 
 1. [Hacktoberfest: a festa do código aberto](https://github.com/leticiadasilva/Hacktoberfest/blob/master/Documenta%C3%A7%C3%A3o/hacktoberfest%20-%20a%20festa%20do%20c%C3%B3digo.md)  
 
-2. [Repositórios, pull requests]https://github.com/leticiadasilva/Hacktoberfest/blob/master/Documenta%C3%A7%C3%A3o/por%20onde%20come%C3%A7ar%20a%20estudar.md)  
+2. [Repositórios, pull requests](https://github.com/leticiadasilva/Hacktoberfest/blob/master/Documenta%C3%A7%C3%A3o/por%20onde%20come%C3%A7ar%20a%20estudar.md)  
 
 3. [Por onde começar a estudar?](https://github.com/leticiadasilva/Hacktoberfest/wiki/3.-Por-onde-come%C3%A7ar-a-estudar%3F)  
 
