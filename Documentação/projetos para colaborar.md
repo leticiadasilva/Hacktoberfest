@@ -75,7 +75,7 @@ Pra quem quer entender como começar a contribuir com software livre :smiley:
 
 Uma listona de mulheres que ensinam tecnologia para contribuir e compartilhar.
 - [Mulheres que ensinam tecnologia](https://github.com/compiladoras/women-teaching-tech)
-- [Mulheres no mundo da tecnologia computer](https://github.com/morgannadev/mulherestecnologia)
+- [Mulheres no mundo da tecnologia :computer:](https://github.com/morgannadev/mulherestecnologia)
 
 ---
 
