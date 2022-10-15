@@ -1,6 +1,6 @@
 # Hacktoberfest - a festa do código aberto :tada:
 
-Olar :) ideia aqui é reunir repositórios de código aberto para receberem contribuições na [Hacktoberfest 2022](https://hacktoberfest.com/), iniciativa que rola em outubro há oito anos!  
+Olá :) ideia aqui é reunir repositórios de código aberto para receberem contribuições na [Hacktoberfest 2022](https://hacktoberfest.com/), iniciativa que rola em outubro há oito anos!  
 ㅤ  
 Mas você sabe o que é isso?  
 ㅤ  
@@ -48,4 +48,5 @@ A ideia aqui é encorajar que todas as pessoas se sintam a vontade a fazerem con
 Para entender melhor como isso funciona, vamos entender um pouco o que significa cada um desses passos?  
 
 
-<p align="right"><a href="https://github.com/leticiadasilva/Hacktoberfest/wiki/2.-Reposit%C3%B3rios,-pull-requests">Próximo</p>  
+<p align="right">
+<img width="300px" align=center height="300px" src="https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/t-shirt_2.jpg"/> <img width="300px" align=center height="300px" src="https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Próximo.png"/> </p>

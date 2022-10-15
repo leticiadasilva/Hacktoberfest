@@ -129,5 +129,6 @@ Uma listona de mulheres que ensinam tecnologia para contribuir e compartilhar.
 - [MessageKit](https://github.com/MessageKit/MessageKit)
 
 <div>
-    <p align="left"> <a href="https://github.com/leticiadasilva/Hacktoberfest/wiki/3.-Por-onde-come%C3%A7ar-a-estudar%3F">Anterior
+    <p align="right">
+    <img width="300px" align=center height="300px" src="https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Anterior.png"/></p>
 </div>
