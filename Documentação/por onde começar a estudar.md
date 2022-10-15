@@ -43,6 +43,6 @@ Okay, agora que você já sabe o que é Hacktoberfest, repositórios e pull requ
 - [Curso git](https://github.com/vivianreis/curso-git), por [Viviane Reis](https://github.com/vivianreis);  
 
 <div>
-    <p align="left"> <a href="https://github.com/leticiadasilva/Hacktoberfest/wiki/2.-Reposit%C3%B3rios,-pull-requests">Anterior
-    <p align="right"> <a href="https://github.com/leticiadasilva/Hacktoberfest/wiki/4.-Projetos-para-contribuir:-chegou-a-hora-dos-PR's!" >Próximo</p>
+    <p align="right">
+    <img width="300px" align=center height="300px" src="https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Anterior.png"/> <img width="300px" align=center height="300px" src="https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Próximo.png"/> </p>
 </div>

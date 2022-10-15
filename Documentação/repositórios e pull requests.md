@@ -18,5 +18,6 @@ Pull request é quando você faz uma contribuição em algum projeto, como forma
 </p>  
 
 <div>
-    <p align="left"> <a href="https://github.com/leticiadasilva/Hacktoberfest/wiki/1.-Hacktoberfest:-a-festa-do-c%C3%B3digo-aberto">Anterior ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://github.com/leticiadasilva/Hacktoberfest/wiki/3.-Por-onde-come%C3%A7ar-a-estudar%3F" >Próximo</p>
+    <p align="right">
+    <img width="300px" align=center height="300px" src="https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Anterior.png"/> <img width="300px" align=center height="300px" src="https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Próximo.png"/> </p>
 </div>
