@@ -31,6 +31,7 @@ Procurando material pra estudar? Saca só esses repositórios: :books:
 - [Guia do Cientista de Dados das Galáxias](https://github.com/PizzaDeDados/datascience-pizza)
 - [Ciência de dados e linguagem R](https://github.com/hadley)
 - [Data Science e Machine Learning](https://github.com/hmason)
+- [Testes & QA](https://github.com/giselepassuti/testes_QA)
 
 ## Buzzfeed
 
@@ -57,7 +58,8 @@ Se você quer trabalho remoto, cola aqui: :boom:
 ## Live Coding :star:  
 
 Curte live coding? Então bora juntar seus live coders favoritos nessa lista aqui :heart:  
-- [Pessoas fantásticas para você acompanhar em live coding](https://github.com/Caaddss/awesome-live-coding-streams)  
+- [Pessoas fantásticas para você acompanhar em live coding](https://github.com/Caaddss/awesome-live-coding-streams)
+- [Pessoas streamers da nossa comunidade Feministech](https://github.com/feministech/pessoas-streamers-feministech)
 
 ## Pesquisa :mag:  
 
@@ -72,7 +74,8 @@ Pra quem quer entender como começar a contribuir com software livre :smiley:
 ## Listas Incríveis :mega:  
 
 Uma listona de mulheres que ensinam tecnologia para contribuir e compartilhar.
-- [Mulheres que ensinam tecnologia](https://github.com/compiladoras/women-teaching-tech)  
+- [Mulheres que ensinam tecnologia](https://github.com/compiladoras/women-teaching-tech)
+- [Mulheres no mundo da tecnologia :computer:](https://github.com/morgannadev/mulherestecnologia)
 
 ---
 
@@ -89,7 +92,8 @@ Uma listona de mulheres que ensinam tecnologia para contribuir e compartilhar.
 - [camara-data-portal](https://github.com/AcompanhaLegis/camara-data-portal)  
 - [SDK for Dados Abertos da Camara](https://github.com/AcompanhaLegis/sdk-dados-abertos-camara-js)  
 - [@NewSchool/back](https://github.com/NewSchoolApp/newschool-backend)  
-- [Time to Leave](https://github.com/thamara/time-to-leave)  
+- [Time to Leave](https://github.com/thamara/time-to-leave)
+- [Transchange](https://github.com/lissatransborda/transchange/)
 
 ## Objective-C  
 
@@ -127,11 +131,3 @@ Uma listona de mulheres que ensinam tecnologia para contribuir e compartilhar.
 - [ReduxMovieDB](https://github.com/cardoso/ReduxMovieDB)
 - [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels)
 - [MessageKit](https://github.com/MessageKit/MessageKit)
-
-![Próxima página](https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Próximo.png)
-
-[![Markdown][image-thumbs]][image-url]
-
-[image-thumbs]: https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Próximo.png
-
-[image-url]: https://github.com/leticiadasilva/Hacktoberfest/blob/master/Documenta%C3%A7%C3%A3o/contribuindo%20sem%20c%C3%B3digo.md
