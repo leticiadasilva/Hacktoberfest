@@ -131,7 +131,3 @@ Uma listona de mulheres que ensinam tecnologia para contribuir e compartilhar.
 - [ReduxMovieDB](https://github.com/cardoso/ReduxMovieDB)
 - [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels)
 - [MessageKit](https://github.com/MessageKit/MessageKit)
-
-<div>
-    <p align="left"> <a href="https://github.com/leticiadasilva/Hacktoberfest/wiki/3.-Por-onde-come%C3%A7ar-a-estudar%3F">Anterior
-</div>
