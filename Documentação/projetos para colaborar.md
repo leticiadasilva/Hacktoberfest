@@ -128,7 +128,10 @@ Uma listona de mulheres que ensinam tecnologia para contribuir e compartilhar.
 - [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels)
 - [MessageKit](https://github.com/MessageKit/MessageKit)
 
-<div>
-    <p align="right">
-    <img width="300px" align=center height="300px" src="https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Anterior.png"/></p>
-</div>
+![Próxima página](https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Próximo.png)
+
+[![Markdown][image-thumbs]][image-url]
+
+[image-thumbs]: https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Próximo.png
+
+[image-url]: https://github.com/leticiadasilva/Hacktoberfest/blob/master/Documenta%C3%A7%C3%A3o/contribuindo%20sem%20c%C3%B3digo.md

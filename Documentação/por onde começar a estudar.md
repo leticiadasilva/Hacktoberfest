@@ -42,7 +42,10 @@ Okay, agora que você já sabe o que é Hacktoberfest, repositórios e pull requ
 
 - [Curso git](https://github.com/vivianreis/curso-git), por [Viviane Reis](https://github.com/vivianreis);  
 
-<div>
-    <p align="right">
-    <img width="300px" align=center height="300px" src="https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Anterior.png"/> <img width="300px" align=center height="300px" src="https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Próximo.png"/> </p>
-</div>
+![Próxima página](https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Próximo.png)
+
+[![Markdown][image-thumbs]][image-url]
+
+[image-thumbs]: https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Próximo.png
+
+[image-url]: https://github.com/leticiadasilva/Hacktoberfest/blob/master/Documenta%C3%A7%C3%A3o/projetos%20para%20colaborar.md
