@@ -9,8 +9,3 @@ Você pode conferir o resumo da palestra abaixo:
 A palestra pode ser vista 🌈 [aqui](https://www.youtube.com/watch?v=2vMjBW9gpSo) 🌈
 
 ![](https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Feministalk.jpg "Desbravando fronteiras: contribuindo além do código na festa do open source")
-
-<p align="center">
-<img width="500px" align=center height="300px" src="https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Feministalk.jpg">
-</p>  
-ㅤ   
