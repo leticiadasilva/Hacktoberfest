@@ -52,6 +52,7 @@ Para entender melhor como isso funciona, vamos entender um pouco o que significa
 
 [![Markdown][image-thumbs]][image-url]
 
-[image-thumbs]: https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Próximo.png
+[image-thumbs]: https://github.com/leticiadasilva/Hacktoberfest/blob/master/Documenta%C3%A7%C3%A3o/reposit%C3%B3rios%20e%20pull%20requests.md
 
-[image-url]: https://github.com/leticiadasilva/Hacktoberfest/blob/master/Documenta%C3%A7%C3%A3o/reposit%C3%B3rios%20e%20pull%20requests.md
+
+[image-url]: https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Próximo.png
