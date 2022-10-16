@@ -41,11 +41,3 @@ Okay, agora que você já sabe o que é Hacktoberfest, repositórios e pull requ
 - [Versionamento com Git e Github](https://versionamento-com-git-e-github.netlify.app/), por [Ana Carolina](https://twitter.com/anaclpss) e [Lucas Marques](https://twitter.com/marks_Lucass);  
 
 - [Curso git](https://github.com/vivianreis/curso-git), por [Viviane Reis](https://github.com/vivianreis);  
-
-![Próxima página](https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Próximo.png)
-
-[![Markdown][image-thumbs]][image-url]
-
-[image-thumbs]: https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Próximo.png
-
-[image-url]: https://github.com/leticiadasilva/Hacktoberfest/blob/master/Documenta%C3%A7%C3%A3o/projetos%20para%20colaborar.md
