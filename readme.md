@@ -6,9 +6,7 @@ Olá :) Aqui você encontrará informações, materiais de estudo e repositório
 <img width="300px" align=center height="150px" src="https://media.giphy.com/media/3EfgWHj0YIDrW/giphy.gif">
 </p>  
 
-## Sumário  
-
-[Home](https://github.com/leticiadasilva/Hacktoberfest/wiki)
+## Sumário
 
 1. [Hacktoberfest: a festa do código aberto](https://github.com/leticiadasilva/Hacktoberfest/blob/master/Documenta%C3%A7%C3%A3o/hacktoberfest%20-%20a%20festa%20do%20c%C3%B3digo.md)  
 
