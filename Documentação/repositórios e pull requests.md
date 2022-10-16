@@ -13,11 +13,10 @@ São os locais onde ficam armazenados os projetos. O Github é como uma geladeir
 
 Pull request é quando você faz uma contribuição em algum projeto, como forma de melhoria. Há diversas formas de fazer isso, e tudo vai depender do repositório que você está ajudando. Pode ser com código, tradução, indicação de materiais e links... A lista é infinita! :smile:  
 ㅤ 
-<p align="center">
-<img width="300px" align=center height="200px" src="https://media.giphy.com/media/LqajRC2pU0Je8/giphy.gif">
-</p>  
+![Próxima página](https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Próximo.png)
 
-<div>
-    <p align="right">
-    <img width="300px" align=center height="300px" src="https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Anterior.png"/> <img width="300px" align=center height="300px" src="https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Próximo.png"/> </p>
-</div>
+[![Markdown][image-thumbs]][image-url]
+
+[image-thumbs]: https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Próximo.png
+
+[image-url]: https://github.com/leticiadasilva/Hacktoberfest/blob/master/Documenta%C3%A7%C3%A3o/por%20onde%20come%C3%A7ar%20a%20estudar.md

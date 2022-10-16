@@ -48,5 +48,10 @@ A ideia aqui é encorajar que todas as pessoas se sintam a vontade a fazerem con
 Para entender melhor como isso funciona, vamos entender um pouco o que significa cada um desses passos?  
 
 
-<p align="right">
-<img width="300px" align=center height="300px" src="https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/t-shirt_2.jpg"/> <img width="300px" align=center height="300px" src="https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Próximo.png"/> </p>
+![Próxima página](https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Próximo.png)
+
+[![Markdown][image-thumbs]][image-url]
+
+[image-thumbs]: https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/Próximo.png
+
+[image-url]: https://github.com/leticiadasilva/Hacktoberfest/blob/master/Documenta%C3%A7%C3%A3o/reposit%C3%B3rios%20e%20pull%20requests.md
