@@ -41,3 +41,5 @@ Okay, agora que você já sabe o que é Hacktoberfest, repositórios e pull requ
 - [Versionamento com Git e Github](https://versionamento-com-git-e-github.netlify.app/), por [Ana Carolina](https://twitter.com/anaclpss) e [Lucas Marques](https://twitter.com/marks_Lucass);  
 
 - [Curso git](https://github.com/vivianreis/curso-git), por [Viviane Reis](https://github.com/vivianreis);  
+
+- [Github para leigos](https://dev.to/levxyca/pt-br-github-para-leigos-4i7j), por [Leticia 'levxyca'](https://github.com/levxyca);
