@@ -87,6 +87,7 @@ Repositórios para contribuir e se divertir neste Hacktober!
 - [WoMakers](https://github.com/WoMakersCode/challenges-algorithms)
 - [Conteudo Gratuito](https://github.com/perifacode/conteudo-gratuito)
 - [Conteúdos Tech Gratuitos - Leitora Incomum](https://github.com/leitoraincomum/conteudos-tech)
+- [Projeto para praticar código front-end](https://github.com/bugelseif/projetos-iniciantes)
 
 ---
 
