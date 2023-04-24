@@ -30,6 +30,7 @@ Procurando material pra estudar? Saca só esses repositórios: :books:
 - [Data Science e Machine Learning](https://github.com/hmason)
 - [Guia Banco de dados](https://github.com/WoMakersCode/banco-de-dados)
 - [Guia git e github](https://github.com/WoMakersCode/git-e-github)
+- [Free-programming-book - Repositório de livros e cursos](https://github.com/EbookFoundation/free-programming-books)
 
 
 ## Buzzfeed
