@@ -23,4 +23,4 @@ Se você conhece algum repositório que esteja aceitando contribuições, pode i
 
 ### **ATENÇÃO**: 
 
-Na edição de 2022, a partir do dia 01/10/2022, só serão aceitos pull requests marcados com a label _hacktoberfest-accepted_ por mantenedores, OU os que foram aprovados OU receberam merge em repositórios que estejam classificados com o tópico _hacktoberfest_. Mais informações sobre as regras do evento e de como adicionar tópicos e labels em repositórios e pull requests podem ser encontradas [aqui](https://hacktoberfest.com/).
+Na edição de 2022, a partir do dia 01/10/2022 (e nas próximas também), só serão aceitos pull requests marcados com as labels _hacktoberfest_ e _hacktoberfest-accepted_ por mantenedores, OU os que foram aprovados OU receberam merge em repositórios que estejam classificados com o tópico _hacktoberfest_. Mais informações sobre as regras do evento e de como adicionar tópicos e labels em repositórios e pull requests podem ser encontradas [aqui](https://hacktoberfest.com/).
