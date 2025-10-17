@@ -1,6 +1,6 @@
 # Hacktoberfest - a festa do código aberto :tada:
 
-Olá :) ideia aqui é reunir repositórios de código aberto para receberem contribuições na [Hacktoberfest 2022](https://hacktoberfest.com/), iniciativa que rola em outubro há oito anos!  
+Olá :) ideia aqui é reunir repositórios de código aberto para receberem contribuições na [Hacktoberfest 2025](https://hacktoberfest.com/), iniciativa que rola em outubro há 11 anos!  
 ㅤ  
 Mas você sabe o que é isso?  
 ㅤ  
