@@ -11,13 +11,8 @@ Mas você sabe o que é isso?
 
 _Hacktoberfest_ é uma **celebração global aberta a todos** para promover o código aberto (popularmente conhecido como _open source_), organizada por três empresas: [DigitalOcean](https://www.digitalocean.com/), [Appwrite](https://hacktoberfest.appwrite.io/), e [Docker](https://docker.github.io/hacktoberfest/?utm_campaign=2022-09-29-digital-ocean-hacktoberfest&utm_medium=3rd-party-media&utm_source=event&utm_content=digital-oceanhttps://docker.github.io/hacktoberfest/?utm_campaign=2022-09-29-digital-ocean-hacktoberfest&utm_medium=3rd-party-media&utm_source=event&utm_content=digital-ocean). 
 ㅤ  
-A ideia aqui é encorajar que todas as pessoas se sintam a vontade a fazerem contribuições positivas, fazendo com que a comunidade cresça e se torne cada vez mais forte e diversa. Por isso mesmo, são aceitos todos os níveis de conhecimento (seja com código ou não), para que todes possam participar do desafio. E ainda rola um brinde, como forma de incentivo: os 70.000 primeiros participantes que concluírem o desafio (fazendo 4 pull requests), ganharão uma camiseta e mais alguns mimos, como adesivos e porta-copos.  
+A ideia aqui é encorajar que todas as pessoas se sintam a vontade a fazerem contribuições positivas, fazendo com que a comunidade cresça e se torne cada vez mais forte e diversa. Por isso mesmo, são aceitos todos os níveis de conhecimento (seja com código ou não), para que todes possam participar do desafio. E ainda rola um brinde, como forma de incentivo: os 10.000 primeiros participantes que concluírem o desafio (fazendo 6 pull requests), ganharão uma camiseta excluiva!
 
-<p align="center">
-<img width="300px" align=center height="300px" src="https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/t-shirt_2.jpg"/> <img width="300px" align=center height="300px" src="https://github.com/leticiadasilva/Hacktoberfest/blob/master/images/t-shirt.jpg"/> </p>
-
-ㅤ  
-<h2 p align="center" ><b> Você ainda receberá isso em casa! 😲 </b></p>  
 
 ## Passos para participar da Hacktoberfest:
 
